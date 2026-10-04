@@ -35,7 +35,7 @@ These only happen when you tap them:
 - **Web dictionaries and search** (such as Google, Google Translate, Bing Translator, Baidu, MDBG, YouGlish, Youdao, Sogou, Purple Culture, or a website you add yourself): the word you are looking at is sent to that website, which opens in Safari.
 - **"Translate on the web"**: the Chinese text of your page is sent to Google Translate, which opens in Safari.
 - **"Ask an AI"** (ChatGPT, Claude or Gemini): the app copies your page's text to the clipboard and opens that service. Nothing is sent until you paste it there yourself.
-- **"Report a mistake"**: opens your email app with a message to us. If you send it, we receive your email address and what you wrote, and use it only to reply and fix the dictionary.
+- **"Report a mistake"** (on a word) **and "Report a problem"** (in Settings): open your email app with a message to us. If you send it, we receive your email address and what you wrote, and use it only to reply, fix the problem and fix the dictionary.
 
 Those websites and apps have their own privacy policies and may use cookies. We do not control them and receive nothing from them.
 
