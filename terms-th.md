@@ -47,4 +47,4 @@ Apple (App Store, การซื้อ, Apple Translation) และเว็�
 เราอาจแก้ไขข้อตกลงนี้ ถ้าเป็นเรื่องสำคัญจะแจ้งในแอป การใช้แอปต่อหลังการแก้ไขถือว่าคุณยอมรับ
 
 ## 10. ติดต่อ
-อีเมล: hsk.note.dictionary@gmail.com
+อีเมล: readoutchinese.support@gmail.com

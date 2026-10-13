@@ -47,4 +47,4 @@ We work to keep the app useful and working, but it is provided "as is" and may h
 We may update these terms. For important changes we will tell you in the app. Continuing to use the app after a change means you accept it.
 
 ## 10. Contact
-Email: hsk.note.dictionary@gmail.com
+Email: readoutchinese.support@gmail.com
