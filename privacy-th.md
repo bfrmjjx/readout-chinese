@@ -57,4 +57,4 @@ Premium ซื้อผ่าน App Store ของ Apple Apple เป็นผ
 
 ## ติดต่อ
 
-อีเมล: hsk.note.dictionary@gmail.com
+อีเมล: readoutchinese.support@gmail.com

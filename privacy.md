@@ -57,4 +57,4 @@ If this policy changes, we will update this page and the date above.
 
 ## Contact
 
-Email: hsk.note.dictionary@gmail.com
+Email: readoutchinese.support@gmail.com
